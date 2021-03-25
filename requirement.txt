@@ -14,7 +14,7 @@ jieba==0.39
 openpyxl==2.6.1
 PyMySQL==0.9.3
 pyserial==3.4
-PyYAML==3.13
+PyYAML==5.4
 requests==2.21.0
 requests-toolbelt==0.9.1
 serial==0.0.96
